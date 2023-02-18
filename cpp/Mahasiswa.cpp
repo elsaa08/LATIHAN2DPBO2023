@@ -10,7 +10,7 @@ Aamiin.
 class Mahasiswa : public Human
 {
     // class mahasiswa mejadi child/toodler dari class human karena
-    // atribut Mahasiswa melekat kaitannya dengan atribut Human karena sam- sama mengarah
+    // atribut Mahasiswa melekat kaitannya dengan atribut Human karena sama - sama mengarah
     // kepada point-point identitas
 private: // deklarasi private atribut
     string nim;
