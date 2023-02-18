@@ -17,7 +17,7 @@ dalam membuat kode program multi level inheritance ini meliputi :
 ## Penjelasan Alur kode Program
 - setter getter method di setiap class nya
 
-- menampung objek dalam vector
+- menampung objek
 <img width="139" alt="image" src="https://user-images.githubusercontent.com/101001227/219882799-d8376ca1-60c1-4499-ba41-25adfae15450.png">
  
 - membuat objek lalu masing - masing objek diberi data 
