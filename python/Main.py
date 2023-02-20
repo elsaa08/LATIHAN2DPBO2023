@@ -1,5 +1,8 @@
 from sivitas import sivitas
-
+# Saya [Elsa Nabiilah] [2108805]
+# mengerjakan LATIHAN 2 dalam mata kuliah Desain Pemrograman Berorientasi Objek
+# untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
+# Aamiin.
 
 temp = []  # pembuatan/deklarasi variabel array untuk menampung
 
