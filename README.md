@@ -30,3 +30,7 @@ dalam membuat kode program multi level inheritance ini meliputi :
 ## Dokumentasi
 <img width="327" alt="image" src="https://user-images.githubusercontent.com/101001227/219882157-8cd3f07a-939c-43fe-b198-b0fa24a9ee81.png">
 
+## Diagram 
+<img width="136" alt="image" src="https://user-images.githubusercontent.com/101001227/220382770-3af69e3e-1f84-4a93-b838-52edaaef09fa.png">
+
+
